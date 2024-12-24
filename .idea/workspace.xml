@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f021bab3-2969-4576-ae6e-2819ad124b9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TokoGundamSwing.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TokoGundamSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas demo modul 1/.idea/Tugas Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas demo modul 1/tugas 1/tugas 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas demo modul 1/tugas 2/tugas 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas demo modul 1/tugas 3/tugas 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tugas demo modul 1/tugas 4/tugas 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Codelab/DocumentPractice/.idea/DocumentPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Codelab/DocumentPractice/.idea/DocumentPractice.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qZPUtfD6i5BufZn3Va3nCWmMrE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TokoGundamSwing.executor": "Run",
+    "Application.comand.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Perkuliahan/Semester 3/Praktikum/Tugas demo/TokoGundamSwing.java",
+    "onboarding.tips.debug.path": "C:/Perkuliahan/Semester 3/Praktikum/Tugas demo/TokoGundamSwing.java/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f021bab3-2969-4576-ae6e-2819ad124b9f" name="Changes" comment="" />
+      <created>1734867144212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734867144212</updated>
+    </task>
+    <servers />
+  </component>
+</project>
